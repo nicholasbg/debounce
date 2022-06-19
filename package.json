@@ -1,0 +1,22 @@
+{
+  "name": "debounce",
+  "version": "1.0.0",
+  "description": "simple debounce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholasbg/debounce.git"
+  },
+  "keywords": [
+    "debounce"
+  ],
+  "author": "Nick Burke-Gaffney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicholasbg/debounce/issues"
+  },
+  "homepage": "https://github.com/nicholasbg/debounce#readme"
+}
